@@ -1,0 +1,2 @@
+# ValidateSeekbar
+通过SeekBar实现类似淘宝的滑动验证
