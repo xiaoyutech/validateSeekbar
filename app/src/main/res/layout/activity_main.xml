@@ -24,9 +24,5 @@
         android:textColor="#888888"
         android:textSize="14dp" />
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:layout_below="@+id/tv"/>
+
 </RelativeLayout>
